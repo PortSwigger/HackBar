@@ -3,10 +3,10 @@ ExtensionType: 1
 Name: HackBar, Payload Bucket
 RepoName: hackbar
 ScreenVersion: 1.0
-SerialVersion: 1
+SerialVersion: 2
 MinPlatformVersion: 0
 ProOnly: False
 Author: Abdul Wahab
-ShortDescription: 
+ShortDescription: A burp suite extension to easily insert payloads into requests. 
 EntryPoint: build/libs/HackBar-2.0.jar
 BuildCommand: gradle clean build
