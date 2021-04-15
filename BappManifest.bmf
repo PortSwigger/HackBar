@@ -1,0 +1,12 @@
+Uuid: c1c32424fb8a4843a5404aa5ed5d711a
+ExtensionType: 1
+Name: HackBar, Payload Bucket
+RepoName: hackbar
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: Abdul Wahab
+ShortDescription: 
+EntryPoint: build/libs/HackBar-2.0.jar
+BuildCommand: gradle clean build
